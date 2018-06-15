@@ -12,6 +12,7 @@ public class Code {
 				{
 					System.out.print(num);
 					System.out.print(" ");
+					System.out.println("");
 				}
 			System.out.println();
 		}
